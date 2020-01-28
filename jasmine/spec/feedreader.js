@@ -78,7 +78,8 @@ $(function() {
         })
         it('completes its work', function() {
             let feedContainer = document.querySelector('.feed');
-            expect(feedContainer.children.length).toBeGreaterThan(3);            
+            let feedChild = feedContainer.querySelectorAll('.entry');
+            expect(feedChild.length).toBeGreaterThan(1);            
         });
 
     });
