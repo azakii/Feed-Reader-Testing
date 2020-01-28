@@ -2,6 +2,13 @@
 
 In this project i am given a web-based application that reads RSS feeds included [Jasmine](http://jasmine.github.io/).
 
+## how to download/clone your project locally?
+
+* Click "Clone or Download" on upper right corner
+* Choose "Download zip"
+* Unzip the file
+* Open "index.html" using your favourite browser
+
 
 ## Why this Project?
 
